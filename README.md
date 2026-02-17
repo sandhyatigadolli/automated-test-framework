@@ -27,14 +27,14 @@ Testing: Selenium + TestNG
 
 ##  Project Structure
 root
-├── src/ (Spring Boot backend)
-├── Frontend/ (React app)
-├── pom.xml
+- ├── src/ (Spring Boot backend)
+- ├── Frontend/ (React app)
+- ├── pom.xml
 
 ## How to run
 - backend: mvn spring-boot:run -Dskips
 - frontend: npm install
-            npm run dev
+           -  npm run dev
 
 ## Future Improvements
 
