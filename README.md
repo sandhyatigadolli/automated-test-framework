@@ -1,7 +1,8 @@
-Automated Test Execution Framework
-A full-stack automated testing platform built using Spring Boot and React.
+## Automated Test Execution Framework
 
-##Architecture Overview
+## A full-stack automated testing platform built using Spring Boot and React.
+
+## Architecture Overview
 
 Backend: Spring Boot  
 Frontend: React + Vite  
