@@ -24,8 +24,6 @@ Testing: Selenium + TestNG
 | Backend | Frontend | Messaging | Testing |
 |----------|----------|------------|----------|
 | Spring Boot | React | RabbitMQ | Selenium |
-| JPA | Vite |  | TestNG |
-| JWT | Axios |
 
 ##  Project Structure
 root
@@ -34,9 +32,9 @@ root
 ├── pom.xml
 
 ## How to run
--backend: mvn spring-boot:run -Dskips
--frontend: npm install
-          npm run dev
+- backend: mvn spring-boot:run -Dskips
+- frontend: npm install
+            npm run dev
 
 ## Future Improvements
 
