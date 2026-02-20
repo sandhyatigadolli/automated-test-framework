@@ -1,4 +1,4 @@
-## Automated Test Execution Framework
+# Automated Test Execution Framework
 
 ## A full-stack automated testing platform built using Spring Boot and React.
 
